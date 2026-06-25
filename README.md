@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/04a0bc83-a821-49ca-9372-31ee7ccfe419
+
 # Raspberry Pi Pico 2W BadUSB
 
 A USB Rubber Ducky–style HID injection tool built on the Raspberry Pi Pico 2W. This project emulates a USB keyboard to automate keystroke injection for security testing, penetration testing labs, and educational purposes.
